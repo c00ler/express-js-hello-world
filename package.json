@@ -1,0 +1,23 @@
+{
+  "name": "express-js-hello-world",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c00ler/express-js-hello-world.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Alexey Venderov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
