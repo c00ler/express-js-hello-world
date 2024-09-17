@@ -2,8 +2,7 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
-
-let rootHandler = (req, res) => {
+const rootHandler = (req, res) => {
     res.send('Hello, World!');
 };
 
